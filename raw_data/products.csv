@@ -1,0 +1,61 @@
+ID,NAME,CATEGORY,PRICE,SELLER_ID,DESCRIPTION,TAGS,STOCK
+P001,Hand-carved Wooden Bowl,Home & Kitchen,45.99,S001,"Beautiful acacia wood bowl, perfect for salads or decoration. Hand-carved with natural finish.","wood,handmade,kitchen,bowl,sustainable",15
+P002,Ceramic Coffee Mug Set,Home & Kitchen,38.50,S002,"Set of 4 handmade ceramic mugs with unique glazing patterns. Microwave and dishwasher safe.","ceramic,coffee,mug,handmade,kitchen",22
+P003,Knitted Wool Scarf,Fashion,55.00,S003,"Soft merino wool scarf in forest green. Hand-knitted with cable pattern detail.","wool,scarf,winter,handmade,fashion",8
+P004,Silver Tree Necklace,Jewelry,125.00,S004,"Sterling silver pendant featuring detailed tree of life design. 18-inch chain included.","silver,necklace,jewelry,handmade,tree",5
+P005,Leather Journal,Stationery,68.00,S005,"Hand-bound leather journal with 200 pages of recycled paper. Brass clasp closure.","leather,journal,writing,handmade,stationery",12
+P006,Soy Candle Set,Home & Kitchen,32.00,S006,"Set of 3 lavender-scented soy candles in reusable glass jars. 20-hour burn time each.","candle,soy,lavender,handmade,aromatherapy",30
+P007,Macrame Wall Hanging,Home Decor,89.99,S007,"Large bohemian macrame wall art made from natural cotton rope. 36 inches wide.","macrame,wall art,boho,handmade,decor",6
+P008,Handwoven Basket,Home & Kitchen,42.00,S008,"Medium-sized storage basket woven from sustainable bamboo. Perfect for organizing.","bamboo,basket,storage,handmade,sustainable",18
+P009,Pottery Vase,Home Decor,65.00,S002,"Elegant ceramic vase with blue-green glaze. Wheel-thrown and unique.","pottery,vase,ceramic,handmade,decor",10
+P010,Copper Wire Ring,Jewelry,28.00,S004,"Adjustable copper wire ring with turquoise stone accent. Oxidized finish.","copper,ring,jewelry,handmade,turquoise",25
+P011,Quilted Throw Pillow,Home Decor,48.50,S003,"Decorative pillow with hand-quilted geometric pattern. Includes insert.","quilt,pillow,decor,handmade,textile",14
+P012,Natural Soap Bar Set,Beauty,24.99,S009,"Set of 5 organic soap bars with essential oils. Includes lavender, mint, and citrus.","soap,natural,organic,handmade,beauty",40
+P013,Wooden Cutting Board,Home & Kitchen,78.00,S001,"End-grain cutting board made from walnut and maple. Built-in juice groove.","wood,cutting board,kitchen,handmade,walnut",9
+P014,Beaded Bracelet,Jewelry,35.00,S010,"Handmade bracelet with semi-precious stones and silver accents. Elastic band.","bracelet,beads,jewelry,handmade,stones",20
+P015,Linen Tote Bag,Fashion,44.00,S005,"Durable linen tote with leather handles. Interior pocket for organization.","linen,tote,bag,handmade,fashion",16
+P016,Stained Glass Panel,Home Decor,156.00,S011,"Original stained glass artwork featuring abstract design. 12x16 inches with chain.","glass,stained glass,art,handmade,decor",3
+P017,Alpaca Wool Mittens,Fashion,39.99,S003,"Extra warm mittens made from alpaca wool. Fleece-lined for comfort.","alpaca,mittens,winter,handmade,fashion",11
+P018,Ceramic Plant Pot,Home & Kitchen,28.50,S002,"Hand-thrown planter with drainage hole and saucer. Terra cotta color.","ceramic,planter,pottery,handmade,garden",24
+P019,Wood and Resin Coasters,Home & Kitchen,52.00,S001,"Set of 4 coasters combining natural wood with blue resin. Cork backing.","wood,resin,coasters,handmade,unique",13
+P020,Hand-dyed Silk Scarf,Fashion,95.00,S012,"Luxurious silk scarf with hand-dyed abstract pattern. 36x36 inches.","silk,scarf,dyed,handmade,luxury",7
+P021,Brass Bookmark,Stationery,18.50,S013,"Minimalist brass bookmark with leather tassel. Develops patina over time.","brass,bookmark,reading,handmade,metal",35
+P022,Felted Wool Slippers,Fashion,58.00,S014,"Comfortable indoor slippers made from felted wool. Non-slip sole.","felt,slippers,wool,handmade,comfort",10
+P023,Hand-painted Mug,Home & Kitchen,26.00,S015,"One-of-a-kind ceramic mug with hand-painted floral design. Food safe.","ceramic,mug,painted,handmade,unique",19
+P024,Wire Sculpture,Home Decor,72.00,S004,"Abstract wire sculpture suitable for shelf or table display. 8 inches tall.","wire,sculpture,art,handmade,metal",5
+P025,Beeswax Food Wraps,Home & Kitchen,29.99,S009,"Set of 3 reusable food wraps made from cotton and beeswax. Eco-friendly.","beeswax,sustainable,kitchen,handmade,eco",28
+P026,Embroidered Cushion,Home Decor,54.00,S012,"Linen cushion cover with hand-embroidered botanical design. Zipper closure.","embroidery,cushion,decor,handmade,textile",12
+P027,Clay Face Mask,Beauty,31.50,S009,"Natural clay mask with activated charcoal. Detoxifying and purifying.","clay,mask,beauty,handmade,natural",33
+P028,Reclaimed Wood Shelf,Home Decor,115.00,S001,"Floating shelf made from reclaimed barn wood. Includes mounting hardware.","wood,shelf,reclaimed,handmade,rustic",4
+P029,Glass Bead Earrings,Jewelry,42.00,S010,"Dangling earrings with handmade glass beads. Sterling silver hooks.","glass,earrings,jewelry,handmade,beads",17
+P030,Woven Wall Basket,Home Decor,38.50,S008,"Decorative shallow basket for wall display. Natural grass weaving.","basket,wall decor,woven,handmade,natural",21
+P031,Hand-forged Garden Trowel,Home & Kitchen,67.50,S016,"Durable carbon steel trowel with ash wood handle. Perfect for gardening enthusiasts.","metal,gardening,tools,handmade,forged",8
+P032,Indigo Dyed Table Runner,Home Decor,58.00,S017,"Hand-dyed cotton table runner with traditional shibori pattern. 72 inches long.","indigo,textile,table runner,handmade,shibori",11
+P033,Crystal Point Pendant,Jewelry,48.00,S018,"Raw amethyst crystal wrapped in sterling silver wire. Includes leather cord.","crystal,amethyst,pendant,handmade,healing",14
+P034,Bamboo Cutting Board Set,Home & Kitchen,85.00,S019,"Set of 3 cutting boards in different sizes. Sustainable bamboo with mineral oil finish.","bamboo,cutting board,sustainable,handmade,kitchen",6
+P035,Vintage-Style Pocket Watch,Fashion,145.00,S020,"Mechanical pocket watch with engraved brass case. Roman numeral face.","watch,brass,vintage,handmade,timepiece",3
+P036,Herb Drying Rack,Home & Kitchen,39.99,S021,"Collapsible wooden rack for drying herbs and flowers. Natural pine construction.","wood,herbs,drying,handmade,garden",19
+P037,Polymer Clay Earrings,Jewelry,22.50,S022,"Lightweight geometric earrings in sunset colors. Hypoallergenic posts.","polymer clay,earrings,geometric,handmade,lightweight",32
+P038,Alpaca Fiber Blanket,Home Decor,189.00,S023,"Luxuriously soft throw blanket made from alpaca fiber. Natural cream color.","alpaca,blanket,luxury,handmade,fiber",4
+P039,Pressed Flower Bookmark Set,Stationery,16.00,S024,"Set of 4 bookmarks with real pressed flowers in resin. Ribbon attached.","flowers,bookmark,resin,handmade,nature",27
+P040,Copper Moscow Mule Mugs,Home & Kitchen,76.00,S025,"Set of 2 hammered copper mugs with brass handles. Traditional style.","copper,mug,moscow mule,handmade,metal",9
+P041,Macrame Plant Hanger,Home Decor,34.50,S026,"Cotton rope plant hanger in natural color. Fits 6-8 inch pots.","macrame,plant hanger,cotton,handmade,boho",23
+P042,Hand-painted Silk Tie,Fashion,62.00,S027,"Pure silk necktie with abstract watercolor design. Unique pattern.","silk,tie,painted,handmade,fashion",7
+P043,Cedar Jewelry Box,Stationery,98.00,S028,"Aromatic cedar wood box with felt-lined compartments. Brass hinges.","cedar,jewelry box,wood,handmade,storage",5
+P044,Sea Glass Wind Chime,Home Decor,45.00,S029,"Beach glass pieces on driftwood with copper accents. Gentle ocean sounds.","sea glass,wind chime,beach,handmade,coastal",16
+P045,Leather Card Wallet,Fashion,41.00,S030,"Minimalist wallet for cards and cash. Full-grain leather with hand-stitching.","leather,wallet,minimalist,handmade,accessories",21
+P046,Ceramic Incense Holder,Home Decor,28.00,S031,"Glazed ceramic holder for stick incense. Modern geometric design.","ceramic,incense,holder,handmade,zen",18
+P047,Wool Dryer Balls,Home & Kitchen,19.99,S032,"Set of 6 felted wool dryer balls. Natural fabric softener alternative.","wool,dryer balls,eco,handmade,laundry",45
+P048,Hand-carved Spoon Set,Home & Kitchen,52.50,S033,"Set of 4 wooden spoons carved from cherry wood. Food-safe finish.","wood,spoons,carved,handmade,kitchen",12
+P049,Beaded Hair Clips,Fashion,26.00,S034,"Set of 3 decorative hair clips with vintage-style beading. Pearl accents.","beads,hair clips,vintage,handmade,accessories",29
+P050,Stone Coaster Set,Home & Kitchen,38.00,S035,"Natural slate coasters with cork backing. Set of 6 with holder.","stone,coasters,slate,handmade,natural",15
+P051,Crocheted Baby Blanket,Fashion,72.00,S036,"Soft cotton blanket in pastel colors. Machine washable and hypoallergenic.","crochet,baby,blanket,handmade,cotton",8
+P052,Metal Wall Art,Home Decor,134.00,S037,"Abstract steel sculpture for wall mounting. Powder-coated black finish.","metal,wall art,steel,handmade,abstract",2
+P053,Lavender Pillow Spray,Beauty,21.50,S038,"Natural sleep spray with organic lavender oil. 4oz glass bottle.","lavender,spray,aromatherapy,handmade,sleep",37
+P054,Wooden Serving Tray,Home & Kitchen,56.00,S039,"Rustic serving tray with rope handles. Made from reclaimed oak.","wood,serving tray,rustic,handmade,reclaimed",10
+P055,Polymer Clay Magnets,Stationery,18.00,S040,"Set of 8 decorative refrigerator magnets. Food and nature themes.","polymer clay,magnets,decorative,handmade,kitchen",41
+P056,Woven Cotton Rug,Home Decor,127.00,S041,"Hand-woven area rug in geometric pattern. 4x6 feet, natural dyes.","cotton,rug,woven,handmade,geometric",3
+P057,Silver Wire Bracelet,Jewelry,33.50,S042,"Delicate bracelet with twisted silver wire design. Adjustable sizing.","silver,bracelet,wire,handmade,delicate",26
+P058,Pine Cone Bird Feeder,Home & Kitchen,24.99,S043,"Natural bird feeder made from large pine cones and organic peanut butter.","pine cone,bird feeder,natural,handmade,wildlife",31
+P059,Embossed Leather Belt,Fashion,89.00,S044,"Full-grain leather belt with hand-tooled western pattern. Brass buckle.","leather,belt,embossed,handmade,western",6
+P060,Glass Terrarium Globe,Home Decor,43.00,S045,"Hanging glass sphere for air plants or small succulents. 6-inch diameter.","glass,terrarium,plants,handmade,hanging",17
