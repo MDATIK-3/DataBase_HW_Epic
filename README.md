@@ -293,7 +293,7 @@ uv run python -m src.services.search_service
 ```
 
 ## Deliverables
-- **REQUIRED**: A link to the GitHub repository with the code.
+- **REQUIRED**: [A link to the GitHub repository with the code].(https://github.com/MDATIK-3/DataBase_HW_Epic/)
 - **REQUIRED**: A screencast (15–20 min) with an explanation of design decisions, walkthrough of features with the obligatory demo of the working code.
 
 ## Evaluation Criteria
@@ -343,5 +343,4 @@ uv run python -m src.services.search_service
 - [Neo4j Python Driver](https://neo4j.com/docs/python-manual/current/)
 
 
-Good luck with your implementation!#   D a t a B a s e _ H W _ E p i c  
- 
+Good luck with your implementation!#
